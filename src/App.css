@@ -1,0 +1,33 @@
+/* .App {
+  text-align: center;
+} */
+
+/* .App-logo {
+  height: 40vmin;
+  pointer-events: none;
+} */
+
+img.logo {
+  height: 8vmin;
+  pointer-events: none;
+}
+
+a.nav-link {
+  color: black;
+}
+
+
+/* Our Services */
+.col-sm-4 img {
+  width: 100%;
+  height: fit-content;
+  margin-top: 40px;
+}
+
+.bg-secondary {
+  background-color: #F2F2F2 !important;
+}
+
+.text-center.card {
+  background-color: #D3D3D3 !important;
+}
